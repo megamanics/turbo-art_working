@@ -1,0 +1,10 @@
+fastapi
+pathlib
+huggingface_hub
+jinja2
+Pillow~=10.1.0
+diffusers~=0.24
+transformers~=4.35
+accelerate~=0.25
+safetensors~=0.4
+jinja2
